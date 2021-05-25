@@ -1,0 +1,25 @@
+
+        
+        .life {
+            width: 40%;
+            border: 1px solid rgb(1, 6, 10);
+            border-radius: 00px;
+            margin: 1%;
+            padding-left: 2%;
+            padding-right: 2%;
+            background-color: rgb(11, 232, 240);
+            display: inline-block;
+            
+
+        }
+
+        h1 {
+            text-align: center;
+            color: blue;
+
+        }
+        p{
+            text-align: justify;
+        }
+        
+    
